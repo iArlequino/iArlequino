@@ -24,6 +24,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
 </span>
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=iArlequino.YOUR_REPO)
+
 
 
