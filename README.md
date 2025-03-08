@@ -24,3 +24,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
 </span>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=iArlequino&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iArlequino&langs_count=5&theme=tokyonight)]()
